@@ -4,7 +4,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![alt text](https://github.com/raymonfrench/Whydoesthisnotwork/blob/main/Network%20Diagram%20Week%2013.PNG)
+![alt text](https://github.com/raymonfrench/Whydoesthisnotwork/blob/main/diagrams/Network%20Diagram%20Week%2013.PNG)
 
 ~/Documents/GitHub/Week13/'
 Week 13 Network Diagram.drawio'
@@ -114,7 +114,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![alt text](https://github.com/raymonfrench/Whydoesthisnotwork/blob/main/docker_ps_output.PNG")
+![alt text](https://github.com/raymonfrench/Whydoesthisnotwork/blob/main/diagrams/docker_ps_output.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
