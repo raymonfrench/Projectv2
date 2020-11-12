@@ -6,12 +6,9 @@ The files in this repository were used to configure the network depicted below.
 
 ![alt text](https://github.com/raymonfrench/Whydoesthisnotwork/blob/main/diagrams/Network%20Diagram%20Week%2013.PNG)
 
-~/Documents/GitHub/Week13/'
-Week 13 Network Diagram.drawio'
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat.
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
-
-  - elk.yml
+![alt text](https://github.com/raymonfrench/Whydoesthisnotwork/blob/main/Ansible_Files/elk.yml)
 
 This document contains the following details:
 - Installs Docker.io
@@ -27,7 +24,7 @@ This document contains the following details
 
   - hosts
 This document contains the following details
-- This creats and elk group and allows the webserver and elk group to communicate via python between their IP addresses
+- This creats an elk group and allows the webserver and elk group to communicate via python between their IP addresses
 
   - filebeatsconfig.yml
 This document contains the following details
